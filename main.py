@@ -15,6 +15,7 @@ PEP8 Compliant
 pygame.display.set_caption("Pathfinder")
 
 # Colors
+PURPLE = (255, 0, 255)
 RED = (255, 0, 0)
 GREEN = (0, 255, 0)
 BLUE = (0, 0, 255)
@@ -24,6 +25,7 @@ WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
 GREY = (128, 128, 128)
 DARK = (50, 50, 50)
+
 
 
 class Node:
